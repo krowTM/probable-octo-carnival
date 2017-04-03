@@ -1,0 +1,14 @@
+<phpunit colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         strict="true"
+         verbose="false"
+         bootstrap="vendor/autoload.php"
+         timeoutForSmallTests="5">
+    <testsuites>
+        <testsuite name="Tour tests">
+            <directory suffix="Test.php">./tests/*</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

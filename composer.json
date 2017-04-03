@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "prewk/xml-string-streamer": "^0.9.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Tour\\": "src"
+      }
+    }
+}
