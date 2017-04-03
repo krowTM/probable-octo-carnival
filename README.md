@@ -12,6 +12,6 @@ Run `composer update`
 
 Run with `php src/xml_parser.php` 
 
-## 4. Tests
+## 3. Tests
 
 Run with `vendor/bin/phpunit`
