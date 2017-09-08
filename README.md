@@ -1,6 +1,6 @@
 ## 0. Install
 
-Run `composer update`
+Run `composer install`
 
 ## 1. Anagram Detection
 
