@@ -4,13 +4,13 @@ Run `composer install`
 
 ## 1. Anagram Detection
 
-`src/Utils/AnagramDetection.php`
+`./src/Utils/AnagramDetection.php`
 
 ## 2. XML Parser
 
-`src/Utils/XmlParser.php`
+`./src/Utils/XmlParser.php`
 
-Run with `php src/xml_parser.php` 
+Run with `php ./src/xml_parser.php` 
 
 ## 3. Tests
 
