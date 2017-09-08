@@ -14,4 +14,4 @@ Run with `php src/xml_parser.php`
 
 ## 3. Tests
 
-Run with `vendor/bin/phpunit`
+Run with `./vendor/bin/phpunit`
